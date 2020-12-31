@@ -1,0 +1,35 @@
+img {
+    align-items: center;
+    border: solid;
+    border-color: rgb(206, 245, 240);
+    border-radius: 20px;
+    border-width: 30px;
+    margin: 30px;
+    padding: 20px;
+    opacity: 75%;
+}
+
+h1 {
+    color: #D1DCFD;
+    transform: scale(1.6);
+}
+
+.img {
+    margin-top: 50px;
+    margin-left: 340px;
+    margin-right: 340px;
+    padding: 0%;
+    border: solid;
+    border-right-color: rgb(141, 101, 250);
+    border-left-color: rgb(139, 233, 250);
+}
+
+.img :hover img {
+    opacity: 100%;
+    transform: scale(1.5);
+}
+
+h2 {
+    color: rgb(205, 193, 248);
+    transform: scale(1.5);
+}
